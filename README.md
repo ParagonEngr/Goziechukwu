@@ -7,7 +7,7 @@
 </p>
 
 About Me
-Backend Developer skilled in Python, Django, and FastAPI
+DevOps Engineer skilled in Python, Django, and FastAPI
 Passionate about building fast, secure, and scalable backend systems
 Deep interest in system design, clean architecture, and performance optimization
 Currently exploring advanced API design and development
